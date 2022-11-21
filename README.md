@@ -1,2 +1,1 @@
-# -Projects-on-C
-Programs written with C language
+My second readme
